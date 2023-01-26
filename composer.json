@@ -1,0 +1,16 @@
+{
+  "name": "patron/maibapi",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Golub Adrian",
+      "email": "adrian.golub@indrivo.com",
+      "homepage": "https://www.drupal.org/u/adriangolub"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Maib\\": "src/"
+    }
+  }
+}
